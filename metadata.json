@@ -1,0 +1,6 @@
+{
+  "name": "Modern Website Template",
+  "description": "A clean, modern, and responsive website landing page structure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
